@@ -1,0 +1,7 @@
+F:\C#\C#_Programming\01_SizeOf\bin\Debug\01_SizeOf.exe.config
+F:\C#\C#_Programming\01_SizeOf\bin\Debug\01_SizeOf.exe
+F:\C#\C#_Programming\01_SizeOf\bin\Debug\01_SizeOf.pdb
+F:\C#\C#_Programming\01_SizeOf\obj\Debug\01_SizeOf.csproj.AssemblyReference.cache
+F:\C#\C#_Programming\01_SizeOf\obj\Debug\01_SizeOf.csproj.CoreCompileInputs.cache
+F:\C#\C#_Programming\01_SizeOf\obj\Debug\01_SizeOf.exe
+F:\C#\C#_Programming\01_SizeOf\obj\Debug\01_SizeOf.pdb

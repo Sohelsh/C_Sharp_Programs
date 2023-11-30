@@ -1,0 +1,7 @@
+F:\C#\C#_Programming\02_Nested_Swich\bin\Debug\02_Nested_Swich.exe.config
+F:\C#\C#_Programming\02_Nested_Swich\bin\Debug\02_Nested_Swich.exe
+F:\C#\C#_Programming\02_Nested_Swich\bin\Debug\02_Nested_Swich.pdb
+F:\C#\C#_Programming\02_Nested_Swich\obj\Debug\02_Nested_Swich.csproj.AssemblyReference.cache
+F:\C#\C#_Programming\02_Nested_Swich\obj\Debug\02_Nested_Swich.csproj.CoreCompileInputs.cache
+F:\C#\C#_Programming\02_Nested_Swich\obj\Debug\02_Nested_Swich.exe
+F:\C#\C#_Programming\02_Nested_Swich\obj\Debug\02_Nested_Swich.pdb

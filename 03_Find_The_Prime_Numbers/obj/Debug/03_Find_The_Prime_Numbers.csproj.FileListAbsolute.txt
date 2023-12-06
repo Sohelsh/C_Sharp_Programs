@@ -1,0 +1,7 @@
+F:\C#\C#_Programming\03_Find_The_Prime_Numbers\bin\Debug\03_Find_The_Prime_Numbers.exe.config
+F:\C#\C#_Programming\03_Find_The_Prime_Numbers\bin\Debug\03_Find_The_Prime_Numbers.exe
+F:\C#\C#_Programming\03_Find_The_Prime_Numbers\bin\Debug\03_Find_The_Prime_Numbers.pdb
+F:\C#\C#_Programming\03_Find_The_Prime_Numbers\obj\Debug\03_Find_The_Prime_Numbers.csproj.CoreCompileInputs.cache
+F:\C#\C#_Programming\03_Find_The_Prime_Numbers\obj\Debug\03_Find_The_Prime_Numbers.exe
+F:\C#\C#_Programming\03_Find_The_Prime_Numbers\obj\Debug\03_Find_The_Prime_Numbers.pdb
+F:\C#\C#_Programming\03_Find_The_Prime_Numbers\obj\Debug\03_Find_The_Prime_Numbers.csproj.AssemblyReference.cache

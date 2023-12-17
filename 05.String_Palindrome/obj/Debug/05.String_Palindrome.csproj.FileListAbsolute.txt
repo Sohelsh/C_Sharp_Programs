@@ -1,0 +1,7 @@
+F:\C#\C#_Programming\05.String_Palindrome\bin\Debug\05.String_Palindrome.exe.config
+F:\C#\C#_Programming\05.String_Palindrome\bin\Debug\05.String_Palindrome.exe
+F:\C#\C#_Programming\05.String_Palindrome\bin\Debug\05.String_Palindrome.pdb
+F:\C#\C#_Programming\05.String_Palindrome\obj\Debug\05.String_Palindrome.csproj.AssemblyReference.cache
+F:\C#\C#_Programming\05.String_Palindrome\obj\Debug\05.String_Palindrome.csproj.CoreCompileInputs.cache
+F:\C#\C#_Programming\05.String_Palindrome\obj\Debug\05.String_Palindrome.exe
+F:\C#\C#_Programming\05.String_Palindrome\obj\Debug\05.String_Palindrome.pdb

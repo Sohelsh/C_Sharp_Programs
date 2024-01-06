@@ -1,0 +1,7 @@
+F:\C#\C#_Programming\07.Table_Of_Numbers\bin\Debug\07.Table_Of_Numbers.exe.config
+F:\C#\C#_Programming\07.Table_Of_Numbers\bin\Debug\07.Table_Of_Numbers.exe
+F:\C#\C#_Programming\07.Table_Of_Numbers\bin\Debug\07.Table_Of_Numbers.pdb
+F:\C#\C#_Programming\07.Table_Of_Numbers\obj\Debug\07.Table_Of_Numbers.csproj.AssemblyReference.cache
+F:\C#\C#_Programming\07.Table_Of_Numbers\obj\Debug\07.Table_Of_Numbers.csproj.CoreCompileInputs.cache
+F:\C#\C#_Programming\07.Table_Of_Numbers\obj\Debug\07.Table_Of_Numbers.exe
+F:\C#\C#_Programming\07.Table_Of_Numbers\obj\Debug\07.Table_Of_Numbers.pdb

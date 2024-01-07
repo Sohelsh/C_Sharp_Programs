@@ -1,0 +1,7 @@
+F:\C#\C#_Programming\08.Factorial_Of_Number\bin\Debug\08.Factorial_Of_Number.exe.config
+F:\C#\C#_Programming\08.Factorial_Of_Number\bin\Debug\08.Factorial_Of_Number.exe
+F:\C#\C#_Programming\08.Factorial_Of_Number\bin\Debug\08.Factorial_Of_Number.pdb
+F:\C#\C#_Programming\08.Factorial_Of_Number\obj\Debug\08.Factorial_Of_Number.csproj.AssemblyReference.cache
+F:\C#\C#_Programming\08.Factorial_Of_Number\obj\Debug\08.Factorial_Of_Number.csproj.CoreCompileInputs.cache
+F:\C#\C#_Programming\08.Factorial_Of_Number\obj\Debug\08.Factorial_Of_Number.exe
+F:\C#\C#_Programming\08.Factorial_Of_Number\obj\Debug\08.Factorial_Of_Number.pdb
